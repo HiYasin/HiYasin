@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://github.com/HiYasin/HiYasin/blob/main/faisal.gif?raw=true"  />
+  <img src="https://github.com/HiYasin/HiYasin/blob/main/faisal.gif?raw=true"  />
 </div>
 
 ###
