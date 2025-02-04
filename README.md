@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="600" src="https:raw.githubusercontent.com/HiYasin/Faisal Ahammod Yasin.gif"  />
+  <img height="600" src="https://raw.githubusercontent.com/hiyasin/hiyasin/refs/heads/main/faisal.gif"  />
 </div>
 
 ###
