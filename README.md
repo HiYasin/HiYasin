@@ -24,13 +24,16 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React<br>🎯 Goals: Become a Software Engineer</p>
+<p align="left">✨ Creating bugs: since 2022<br>📚 I'm currently learning: Frontend Engineering<br>🎯 Goals: Become a Software Engineer<br>😴 Fun fact: My best ideas come when I’m about to sleep… and I always forget them by morning. </p>
 
 ###
 
+<h2 align="center">Current Activities</h2>
+
+###
 - Exploring Typescript and Next.js
 - Working on two project Staff sync and Urban foodies
-- 
+- Trying to learn and utilize AI in coding journey
 
 ###
 
