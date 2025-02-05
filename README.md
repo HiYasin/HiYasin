@@ -28,6 +28,12 @@
 
 ###
 
+- Exploring Typescript and Next.js
+- Working on two project Staff sync and Urban foodies
+- 
+
+###
+
 <div align="center">
     <img src="https://nirzak-streak-stats.vercel.app?user=HiYasin&theme=dark" height="200" alt="stats graph"  />
 </div>
