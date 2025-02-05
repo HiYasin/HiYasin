@@ -90,6 +90,9 @@
   <a href="https://www.facebook.com/faisal99yasin/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
+   <a href="https://x.com/Mr_Ahammod" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="52" height="40" alt="twitter logo"  />
+   </a>
   <a href="https://www.behance.net/faisalahmed199" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
   </a>
