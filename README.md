@@ -8,6 +8,10 @@
 
 ###
 
+<h4 align="center">Aspiring Software Engineer | CSE undergraduate | Frontend Web Developer</h4>
+
+###
+
 <h2 align="center">About me</h2>
 
 ###
