@@ -20,6 +20,10 @@
 
 ###
 
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=HiYasin&theme=dark)](https://git.io/streak-stats)
+
+###
+
 <h2 align="center">I code with</h2>
 
 ###
