@@ -19,7 +19,7 @@
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React<br>🎯 Goals: Become a Software Engineer</p>
 
 ###
-
+###
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app?user=HiYasin&theme=dark" height="200" alt="stats graph"  />
   <br/>
@@ -28,7 +28,7 @@
 </div>
 
 ###
-
+###
 ###
 
 <h2 align="center">I code with</h2>
