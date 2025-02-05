@@ -5,9 +5,6 @@
 ###
 
 <h1 align="center">Hi  there! 👋 I am Faisal Ahammod Yasin</h1>
-
-###
-
 <h4 align="center">Aspiring Software Engineer | CSE undergraduate | Frontend Web Developer</h4>
 
 ###
