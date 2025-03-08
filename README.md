@@ -31,6 +31,7 @@
 <h2 align="center">Current Activities</h2>
 
 ###
+
 - Exploring Typescript and Next.js
 - Working on two project Staff sync and Urban foodies
 - Trying to learn and utilize AI in coding journey
@@ -38,14 +39,18 @@
 ###
 
 <div align="center">
-    <img src="https://nirzak-streak-stats.vercel.app?user=HiYasin&theme=dark" height="200" alt="stats graph"  />
+    <!-- <img src="https://nirzak-streak-stats.vercel.app?user=HiYasin&theme=dracula&hide_border=true" height="200" alt="stats graph"  /> -->
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HiYasin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HiYasin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=HiYasin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HiYasin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
+  <img src="https://nirzak-streak-stats.vercel.app?user=HiYasin&theme=dracula&hide_border=true" height="200" alt="stats graph"  /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HiYasin&radius=16&theme=dracula&area=true&order=5&hide_border=true&bg_color=282A36" height="200" alt="activity-graph graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=HiYasin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="200" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HiYasin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="200" alt="languages graph" f/> 
 </div>
 
 ###
