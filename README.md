@@ -45,10 +45,14 @@
 
 ###
 
-<div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=HiYasin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" alt="stats graph" />
+<div style="display: flex; ">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=HiYasin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" alt="stats graph" /> -->
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HiYasin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" alt="languages graph" f/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HiYasin&theme=dracula&hide_border=true">
+
+  <!-- <img src="https://github-readme-stats.vercel.app/api/cards/repos-per-language?username=HiYasin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" alt="languages graph" f/> -->
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HiYasin&theme=dracula&hide_border=true">
 </div>
 
 ###
