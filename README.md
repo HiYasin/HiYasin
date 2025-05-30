@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=HiYasin&theme=dracula&hide_border=true" alt="stats graph" height="180em"/> <br>
+  <img src="https://nirzak-streak-stats.vercel.app?user=HiYasin&theme=dracula&hide_border=true" alt="stats graph"/> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HiYasin&radius=16&theme=dracula&area=true&order=5&hide_border=true&bg_color=282A36" alt="activity-graph graph" height="180em"/>
 </div>
 
@@ -48,11 +48,11 @@
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=HiYasin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" alt="stats graph" /> -->
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HiYasin&theme=dracula&hide_border=true" height="180em">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HiYasin&theme=dracula&hide_border=true">
 
   <!-- <img src="https://github-readme-stats.vercel.app/api/cards/repos-per-language?username=HiYasin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" alt="languages graph" f/> -->
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HiYasin&theme=dracula&hide_border=true" height="180em">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HiYasin&theme=dracula&hide_border=true">
 </div>
 
 ###
