@@ -40,7 +40,7 @@
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app?user=HiYasin&theme=dracula&hide_border=true" alt="stats graph"/> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HiYasin&radius=16&theme=dracula&area=true&order=5&hide_border=true&bg_color=282A36" alt="activity-graph graph" height="180em"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HiYasin&radius=16&theme=dracula&area=true&order=5&hide_border=true&bg_color=282A36" alt="activity-graph graph" width="685"/>
 </div>
 
 ###
