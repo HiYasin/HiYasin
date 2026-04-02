@@ -54,10 +54,6 @@
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiYasin&layout=compact)
-
-###
-
 <h2 align="center">I code with</h2>
 
 ###
