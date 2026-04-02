@@ -49,7 +49,7 @@
 
   <!-- <img src="https://github-readme-stats.vercel.app/api/cards/repos-per-language?username=HiYasin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" alt="languages graph" f/> -->
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HiYasin&theme=dracula&hide_border=true">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HiYasin&theme=dracula&hide_border=true&langs_count=10">
 </div>
 
 ###
